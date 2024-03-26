@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/Aleff2/Desktop/pessoais/portifolio/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Aleff2/Desktop/pessoais/portifolio/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Aleff2/Desktop/pessoais/portifolio/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Aleff2\\Desktop\\pessoais\\portifolio\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Aleff2\\Desktop\\pessoais\\portifolio\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Aleff2/Desktop/pessoais/portifolio/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Aleff2/Desktop/pessoais/portifolio/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Aleff2/Desktop/pessoais/portifolio/./frontend/generated/jar-resources",
+  "themeName": "portifolio",
+  "clientServiceWorkerSource": "C:\\Users\\Aleff2\\Desktop\\pessoais\\portifolio\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
