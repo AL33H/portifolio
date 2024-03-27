@@ -27,12 +27,16 @@ import com.vaadin.flow.theme.lumo.LumoUtility.Width;
 public class SkillsViewCard extends HorizontalLayout {
 
     public SkillsViewCard(String imageUrl, String alias) {
+        this.getStyle().setWidth("300px");
+        this.getStyle().setHeight("100px");
         Image image = new Image(imageUrl, alias);
-        image.setWidth("30px");
-        Button button = new Button(alias, image);
-        button.getStyle().setPadding("30px");
-        button.getStyle().setMargin("30px");
+        image.setWidth("100px");
+        Button button = new Button(image);
+        button.getStyle().setPadding("10px");
+        button.getStyle().setMargin("10px");
+        button.setWidth("162px");
+        button.setHeight("60px");
+        button.setAutofocus(true);
         add(button);
-
     }
 }
