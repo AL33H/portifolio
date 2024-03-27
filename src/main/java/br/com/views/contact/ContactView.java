@@ -16,5 +16,8 @@ public class ContactView extends Composite<VerticalLayout> {
     public ContactView() {
         getContent().setWidth("100%");
         getContent().getStyle().set("flex-grow", "1");
+
+
+
     }
 }
